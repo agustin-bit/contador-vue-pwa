@@ -1,0 +1,20 @@
+.app {
+  display: block;
+  text-align: center;
+}
+
+html,
+body {
+  /* background-color: #efebce; */
+  margin: 1rem;
+}
+
+#simple {
+  margin: 2rem;
+  background-color: #a3a380;
+  border-color: #a3a380;
+}
+
+#simple:hover {
+  background-color: #858569;
+}
